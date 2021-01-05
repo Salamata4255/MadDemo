@@ -5,7 +5,7 @@ Simple click-on button to change the text color
 
 ### App Walk-though
 
-<img src="https://recordit.co/uLJkgbSO9a" width=200><br>
+<img src=https://recordit.co/uLJkgbSO9a width=200><br>
 
 
 ### Required User Stories
